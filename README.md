@@ -177,4 +177,6 @@ For this app, we used mainly certain properties : (.boundingBox.max.x,.boundingB
 ### Release
 The folder Release contains the .ipa file. It is the prototyp part
 
-
+### Video Demo
+This is what should do the application : 
+https://www.youtube.com/watch?v=_-Af6nTAPl4&feature=youtu.be
